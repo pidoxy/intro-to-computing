@@ -7,3 +7,8 @@ If you'd like to submit your notes on certain chapters, solutions to exercises, 
 ## Chapter 1.
 
 [Notes](chapters/chapter-1/chapter-1-summary.md)
+
+
+## Chapter 2.
+
+[Notes](chapters/chapter-2/chapter-2-summary.md)
